@@ -1,6 +1,9 @@
-# Đồ án ...
+# Đồ án 1 NMCNTT 2
 
-Thông tin thành viên<BR>
+## Thông tin đề tài
+
+
+## Thông tin thành viên
 
 Họ và tên | MSSV
 ------------ | -------------
