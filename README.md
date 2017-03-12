@@ -14,21 +14,21 @@ Các nhà hàng, khu vui chơi, nhà tổ chức sự kiện có thể đăng ti
 - Những nhà hàng, khu vui chơi, ban tổ chức sự kiện... khi thiếu nhân lực gấp có thể đăng lên web/app những thông tin như : độ tuổi, trình độ học vấn, giới tính,....và những yêu cầu mong muốn cho công việc. 
 - Hệ thống sẽ đăng tải những yêu cầu đó và gửi thông báo đến cho người dùng phù hợp. 
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho nhà hàng...
-- Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên <BR>
+- Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.
 <B> Ý TƯỞNG 2 : Ý tưởng: Tạo App/Web cung cấp thực phẩm sạch </B> <BR>
 <B> Làm gì? </B> : Tạo ra một môi trường giúp người dùng tìm kiếm được nguồn thực phẩm sạch.<BR>
 <B> Tại sao làm? </B> : Nhu cầu thực phẩm sạch, đảm bảo chất lượng ngày càng trở nên rộng rãi ở khắp nơi. <BR>
 <B> Đối tượng </B> : Tất cả người tiêu dùng.<BR>
 <B> Hướng giải quyết </B> : Tạo ra một trang web và app mobile kinh doanh thực phẩm sạch gồm rau, củ, quả, các loại thịt, cá,...<BR>
 Các mục cần xác định rõ ràng:<BR>
--Nơi sản xuất hay vùng cung cấp(có hình ảnh thực tế tại nơi sản xuất)— Thông qua các chuẩn kiểm định về an toàn thực phẩm, vệ sinh nơi sản xuất.<BR>
--Ngày sản xuất.<BR>
--Hạn sử dụng.<BR>
--Cơ chế bảo quản từ nơi sản xuất đến kho cất giữ<BR>
--Có cơ chế đặt hàng online, ship tận nhà. <BR>
--Review của khách hàng về sản phẩm<BR>
--Dịch vụ hậu mãi cho khách thành viên<BR>
--Có cơ chế giới thiệu ngẫu nhiên món ăn chế biến từ sản phẩm(link đến các trang dạy nấu ăn) khi khách hàng tham khảo sản phẩm.<BR>
+- Nơi sản xuất hay vùng cung cấp(có hình ảnh thực tế tại nơi sản xuất)— Thông qua các chuẩn kiểm định về an toàn thực phẩm, vệ sinh nơi sản xuất.<BR>
+- Ngày sản xuất.<BR>
+- Hạn sử dụng.<BR>
+- Cơ chế bảo quản từ nơi sản xuất đến kho cất giữ<BR>
+- Có cơ chế đặt hàng online, ship tận nhà. <BR>
+- Review của khách hàng về sản phẩm<BR>
+- Dịch vụ hậu mãi cho khách thành viên<BR>
+- Có cơ chế giới thiệu ngẫu nhiên món ăn chế biến từ sản phẩm(link đến các trang dạy nấu ăn) khi khách hàng tham khảo sản phẩm.<BR>
 -Đền bù thiệt hại khách hàng khi sản phẩm không đúng như trình bày.<BR>
 
 ## Thông tin thành viên
