@@ -1,7 +1,7 @@
 # Đồ án 1 NMCNTT 2
 
 ## Thông tin đề tài
-
+<B> Ý TƯỞNG 1 </B>
 
 ## Thông tin thành viên
 
