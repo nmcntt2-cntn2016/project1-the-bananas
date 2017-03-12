@@ -42,7 +42,7 @@ với các mục cần xác định rõ ràng:
 
 ---
 
-### <B> Ý TƯỞNG 3: Kết nối bảng vs Máy tính, Smartphone </B>
+### <B> Ý TƯỞNG 3 : Kết nối bảng vs Máy tính, Smartphone </B>
 
 <B> Mô tả đề tài: </B>
 Do hiện nay lớp học tại các trường cấp 3, đại học ở nước ta khá đông, việc một lớp học lớn với số lượng lớn học sinh là điều không tránh khỏi. Không thiếu những lời than phiền về việc không nhìn thấy bảng. Do đó, mình muốn xây dựng một sự kết nối giữa tấm bảng ghi với chiếc Smart phone của mỗi học sinh, qua đó những bạn học sinh k nhìn thấy bảng có thể nhìn vào smart phone mà có thể theo dõi những gì ghi trên bảng.
