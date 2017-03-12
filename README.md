@@ -31,13 +31,13 @@
  - Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
  - Sử dụng các thiết bị di động(smartphone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.<BR>
  
-***
+---
 
 ## Thông tin thành viên
 
 Họ và tên | MSSV
 ------------ | -------------
-Nguyễn Trần Hậu | 1612180
-Nguyễn Duy Thanh | 1612628
-Tăng Nguyễn Hoàng Phi | 1612493
-Đào Thanh Hoàng | 1612214
+Nguyễn Trần Hậu | `1612180`
+Nguyễn Duy Thanh | `1612628`
+Tăng Nguyễn Hoàng Phi | `1612493`
+Đào Thanh Hoàng | `1612214`
