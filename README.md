@@ -58,16 +58,16 @@ Do hiện nay lớp học tại các trường cấp 3, đại học ở nước
  
 <B> Hướng giải quyết: </B>
  1. Bảng cảm biến: 
-  1. Làm một chiếc bảng kính, có thể cảm nhận được khi ta viết bút lông trên bảng, "chụp"(mô phỏng) lại những gì ghi trên bảng.
-  1. Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
-  1. Sử dụng các thiết bị di động(smart phone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.
+  * Làm một chiếc bảng kính, có thể cảm nhận được khi ta viết bút lông trên bảng, "chụp"(mô phỏng) lại những gì ghi trên bảng.
+  * Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
+  * Sử dụng các thiết bị di động(smart phone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.
  1.  Sử dụng 2 thiết bị và 1 cây bút:
-  1. 2 thiết bị đặt chéo nhau,1 thiết bị đặt làm gốc 0(0,0) định vị thiết bị còn lại tạo nên 1 mặt diện tích hình chữ nhật, hình chữ nhật sẽ được chia ra thành các ô nhỏ(mỗi ô có tọa độ (x,y)) .
-  1. Cây bút là 1 thiết bị phát ra sóng, và 2 thiết bị kia sẽ nhận sóng để định vị vị trí đầu bút. Trong đầu bút sẽ có 1 điểm cảm ứng.
-  1. Khi viết, bút tỳ làm kích hoạt điểm cảm ứng, 2 thiết bị sẽ bắt đầu ghi nhận và lưu lại những vị trí dời của đầu bút, từ đó vẽ lên các nét và lưu data vào 1 thiết bị. Thiết bị đó sẽ phát mô phỏng được lưu ra các smartphone, tablet trong phòng học.
-  1. Trên thiết bị lưu sẽ có 1 nút clear để giảng viên xóa dữ liệu mô phỏng cũ đã được lưu khi giảng viên muốn xóa bài giảng để ghi tiếp tục bài goảng mới.
-  1. Tất cả sóng ở đây đều sử dụng Buetooth Low energy.
-  1. 2 thiết bị sẽ định vị cây bút và mô phỏng độ dời đầu cây bú́t trên bảng được ghi trên bảng và mô phỏng lại rồi pháy ra cho cái smartphone, tablet của sinh viên.
+  * 2 thiết bị đặt chéo nhau,1 thiết bị đặt làm gốc 0(0,0) định vị thiết bị còn lại tạo nên 1 mặt diện tích hình chữ nhật, hình chữ nhật sẽ được chia ra thành các ô nhỏ(mỗi ô có tọa độ (x,y)) .
+  * Cây bút là 1 thiết bị phát ra sóng, và 2 thiết bị kia sẽ nhận sóng để định vị vị trí đầu bút. Trong đầu bút sẽ có 1 điểm cảm ứng.
+  * Khi viết, bút tỳ làm kích hoạt điểm cảm ứng, 2 thiết bị sẽ bắt đầu ghi nhận và lưu lại những vị trí dời của đầu bút, từ đó vẽ lên các nét và lưu data vào 1 thiết bị. Thiết bị đó sẽ phát mô phỏng được lưu ra các smartphone, tablet trong phòng học.
+  * Trên thiết bị lưu sẽ có 1 nút clear để giảng viên xóa dữ liệu mô phỏng cũ đã được lưu khi giảng viên muốn xóa bài giảng để ghi tiếp tục bài goảng mới.
+  * Tất cả sóng ở đây đều sử dụng Buetooth Low energy.
+  * 2 thiết bị sẽ định vị cây bút và mô phỏng độ dời đầu cây bú́t trên bảng được ghi trên bảng và mô phỏng lại rồi pháy ra cho cái smartphone, tablet của sinh viên.
  
 ---
 
