@@ -14,7 +14,7 @@
 <B> Đối tượng hướng đến : </B> Chủ yếu là học sinh và sinh viên, tuy nhiên những người đã ra trường cũng như chưa có việc làm vẫn có thể tìm được. <BR>
 
 <B> Hướng giải quyết : </B>
-- Những nhà hàng, khu vui chơi, ban tổ chức sự kiện... khi thiếu nhân lực gấp có thể đăng lên web/app những thông tin như : độ tuổi, trình độ học vấn, giới tính,....và những yêu cầu mong muốn cho công việc. 
+- Những nhà hàng, khu vui chơi, ban tổ chức sự kiện... khi thiếu nhân lực gấp có thể đăng lên web/app những thông tin như : độ tuổi, trình độ học vấn, giới tính, sức khỏe ....và những yêu cầu đặc biệt cho công việc. 
 - Hệ thống sẽ đăng tải những yêu cầu đó và gửi thông báo đến cho người dùng phù hợp. 
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho nhà hàng...
 - Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.
@@ -31,23 +31,45 @@
 
 <B> Hướng giải quyết : </B> Tạo ra một trang web và app mobile kinh doanh thực phẩm sạch gồm rau, củ, quả, các loại thịt, cá,...
 với các mục cần xác định rõ ràng:
-- Nơi sản xuất hay vùng cung cấp(có hình ảnh thực tế tại nơi sản xuất)— Thông qua các chuẩn kiểm định về an toàn thực phẩm, vệ sinh nơi sản xuất.
-- Ngày sản xuất.
-- Hạn sử dụng.
+- Nơi sản xuất hay vùng cung cấp (có hình ảnh thực tế tại nơi sản xuất) và các chuẩn kiểm định về an toàn thực phẩm, vệ sinh nơi sản xuất.
+- Ngày sản xuất / Hạn sử dụng.
 - Cơ chế bảo quản từ nơi sản xuất đến kho cất giữ.
 - Có cơ chế đặt hàng online, ship tận nhà. 
 - Review của khách hàng về sản phẩm.
 - Dịch vụ hậu mãi cho khách thành viên.
-- Có cơ chế giới thiệu ngẫu nhiên món ăn chế biến từ sản phẩm(link đến các trang dạy nấu ăn) khi khách hàng tham khảo sản phẩm.
--Đền bù thiệt hại khách hàng khi sản phẩm không đúng như trình bày.
+- Giới thiệu các món ăn chế biến từ sản phẩm (link đến các trang dạy nấu ăn) khi khách hàng tham khảo sản phẩm.
+- Đền bù thiệt hại khách hàng khi sản phẩm lỗi.
 
 ---
 
-## Thông tin thành viên
+### <B> Ý TƯỞNG 3: Kết nối bảng vs Máy tính, Smartphone </B>
+
+<B> Mô tả đề tài: </B>
+Do hiện nay lớp học tại các trường cấp 3, đại học ở nước ta khá đông, việc một lớp học lớn với số lượng lớn học sinh là điều không tránh khỏi. Không thiếu những lời than phiền về việc không nhìn thấy bảng. Do đó, mình muốn xây dựng một sự kết nối giữa tấm bảng ghi với chiếc Smart phone của mỗi học sinh, qua đó những bạn học sinh k nhìn thấy bảng có thể nhìn vào smart phone mà có thể theo dõi những gì ghi trên bảng.
+ 
+<B> Lý do chọn đề tài: </B>
+ - Giải quyết được vấn đề sinh viên không nhìn được bảng do lớp học lớn, hạn chế việc chụp hình bảng trong quá trình học gây khó chịu cho giáo viên, sinh viên ngồi ở xa có thể nhìn được những gì ở trên bảng thông qua thiết bị di động.
+ - Có thể sử dụng trong phòng học chuyên dụng cho làm việc nhóm, các nhóm sinh viên có thể ghi lên các bảng được theo xung quanh tường khi làm việc, giáo viên có thể theo dõi nhưng gì được ghi trên bảng của tất cả các nhóm mà chỉ cần nhìn vào laptop.
+ 
+<B> Đối tượng hướng tới: </B>
+ - Học sinh, sinh viên.
+ - Giáo viên.
+ - Trở thành một thiết bị cho các phòng thuyết trình, làm việc nhóm.
+ 
+<B> Hướng giải quyết: </B>
+ 1. Bảng cảm biến:
+ --* Làm một chiếc bảng kính, có thể cảm nhận được khi ta viết bút lông trên bảng, "chụp"(mô phỏng) lại những gì ghi trên bảng.
+ --* Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
+ --* Sử dụng các thiết bị di động(smart phone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.
+ 2. 
+---
+
+
+## Thông tin thành viên:
 
 Họ và tên | MSSV
------------- | -------------
-Nguyễn Trần Hậu | 1612180
-Nguyễn Duy Thanh | 1612628
-Tăng Nguyễn Hoàng Phi | 1612493
-Đào Thanh Hoàng | 1612214
+------------ | :-------------:
+Nguyễn Trần Hậu | `1612180`
+Nguyễn Duy Thanh | `1612628`
+Tăng Nguyễn Hoàng Phi | `1612493`
+Đào Thanh Hoàng | `1612214`
