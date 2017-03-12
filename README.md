@@ -15,7 +15,7 @@ Các nhà hàng, khu vui chơi, nhà tổ chức sự kiện có thể đăng ti
 - Hệ thống sẽ đăng tải những yêu cầu đó và gửi thông báo đến cho người dùng phù hợp. 
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho nhà hàng...
 - Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.<BR>
-#<B> Ý TƯỞNG 2 : Ý tưởng: Tạo App/Web cung cấp thực phẩm sạch </B> <BR>
+##<B> Ý TƯỞNG 2 : Ý tưởng: Tạo App/Web cung cấp thực phẩm sạch </B> <BR>
 <B> Làm gì? </B> : Tạo ra một môi trường giúp người dùng tìm kiếm được nguồn thực phẩm sạch.<BR>
 <B> Tại sao làm? </B> : Nhu cầu thực phẩm sạch, đảm bảo chất lượng ngày càng trở nên rộng rãi ở khắp nơi. <BR>
 <B> Đối tượng </B> : Tất cả người tiêu dùng.<BR>
