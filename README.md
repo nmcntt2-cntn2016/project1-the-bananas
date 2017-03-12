@@ -1,7 +1,7 @@
 # Đồ án 1 NMCNTT 2
 
 ## Thông tin đề tài
-<B> Ý TƯỞNG 1  : Tạo App/Web tạo/tìm việc thời vụ. </B> <BR>
+#<B> Ý TƯỞNG 1  : Tạo App/Web tạo/tìm việc thời vụ. </B> <BR>
 (Công việc thời vụ: chỉ làm trong một thời gian nhất định. Ví dụ nhà hàng có bữa đông khách cần người.)<BR>
 
 <B> Làm gì? </B> : Giúp các sinh viên có thể kiếm tiền bằng cách làm thêm.<BR>
@@ -14,8 +14,8 @@ Các nhà hàng, khu vui chơi, nhà tổ chức sự kiện có thể đăng ti
 - Những nhà hàng, khu vui chơi, ban tổ chức sự kiện... khi thiếu nhân lực gấp có thể đăng lên web/app những thông tin như : độ tuổi, trình độ học vấn, giới tính,....và những yêu cầu mong muốn cho công việc. 
 - Hệ thống sẽ đăng tải những yêu cầu đó và gửi thông báo đến cho người dùng phù hợp. 
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho nhà hàng...
-- Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.
-<B> Ý TƯỞNG 2 : Ý tưởng: Tạo App/Web cung cấp thực phẩm sạch </B> <BR>
+- Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.<BR>
+#<B> Ý TƯỞNG 2 : Ý tưởng: Tạo App/Web cung cấp thực phẩm sạch </B> <BR>
 <B> Làm gì? </B> : Tạo ra một môi trường giúp người dùng tìm kiếm được nguồn thực phẩm sạch.<BR>
 <B> Tại sao làm? </B> : Nhu cầu thực phẩm sạch, đảm bảo chất lượng ngày càng trở nên rộng rãi ở khắp nơi. <BR>
 <B> Đối tượng </B> : Tất cả người tiêu dùng.<BR>
