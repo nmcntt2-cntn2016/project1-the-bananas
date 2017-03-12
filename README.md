@@ -15,6 +15,8 @@
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho nhà hàng...
 - Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên <BR>
 
+---
+
 <B> Ý TƯỞNG 2 : Bảng cảm biến chữ viết + App kết nối bảng vs Máy tính, Smartphone. </B> <BR>
 <B> Mô tả đề tài </B> : Do hiện nay lớp học tại các trường cấp 3, đại học ở nước ta khá đông, việc một lớp học lớn với số lượng lớn học sinh là điều không tránh khỏi. Không thiếu những lời than phiền về việc không nhìn thấy bảng. Do đó, mình muốn xây dựng một sự kết nối giữa tấm bảng ghi với chiếc Smart phone của mỗi học sinh, qua đó những bạn học sinh k nhìn thấy bảng có thể nhìn vào smart phone mà có thể theo dõi những gì ghi trên bảng.<BR>
 <B> Tại sao chọn đề tài </B> : 
@@ -29,6 +31,8 @@
  - Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
  - Sử dụng các thiết bị di động(smartphone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.<BR>
  
+***
+
 ## Thông tin thành viên
 
 Họ và tên | MSSV
