@@ -16,18 +16,18 @@
 - Nếu nhà hàng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên <BR>
 
 <B> Ý TƯỞNG 2 : Bảng cảm biến chữ viết + App kết nối bảng vs Máy tính, Smartphone. </B> <BR>
-<B> Mô tả đề tài <B> : Do hiện nay lớp học tại các trường cấp 3, đại học ở nước ta khá đông, việc một lớp học lớn với số lượng lớn học sinh là điều không tránh khỏi. Không thiếu những lời than phiền về việc không nhìn thấy bảng. Do đó, mình muốn xây dựng một sự kết nối giữa tấm bảng ghi với chiếc Smart phone của mỗi học sinh, qua đó những bạn học sinh k nhìn thấy bảng có thể nhìn vào smart phone mà có thể theo dõi những gì ghi trên bảng.
-<B> Tại sao chọn đề tài <B> : 
+<B> Mô tả đề tài </B> : Do hiện nay lớp học tại các trường cấp 3, đại học ở nước ta khá đông, việc một lớp học lớn với số lượng lớn học sinh là điều không tránh khỏi. Không thiếu những lời than phiền về việc không nhìn thấy bảng. Do đó, mình muốn xây dựng một sự kết nối giữa tấm bảng ghi với chiếc Smart phone của mỗi học sinh, qua đó những bạn học sinh k nhìn thấy bảng có thể nhìn vào smart phone mà có thể theo dõi những gì ghi trên bảng.<BR>
+<B> Tại sao chọn đề tài </B> : 
     Giải quyết được vấn đề sinh viên không nhìn được bảng do lớp học lớn, hạn chế việc chụp hình bảng trong quá trình học gây khó chịu cho giáo viên, sinh viên ngồi ở xa có thể nhìn được những gì ở trên bảng thông qua thiết bị di động.
-    Có thể sử dụng trong phòng học chuyên dụng cho làm việc nhóm, các nhóm sinh viên có thể ghi lên các bảng được theo xung quanh tường khi làm việc, giáo viên có thể theo dõi nhưng gì được ghi trên bảng của tất cả các nhóm mà chỉ cần nhìn vào laptop.
- <B> Đối tượng hướng tới <B> :
+    Có thể sử dụng trong phòng học chuyên dụng cho làm việc nhóm, các nhóm sinh viên có thể ghi lên các bảng được theo xung quanh tường khi làm việc, giáo viên có thể theo dõi nhưng gì được ghi trên bảng của tất cả các nhóm mà chỉ cần nhìn vào laptop.<BR>
+ <B> Đối tượng hướng tới </B> :
  - Học sinh, sinh viên
  - Giáo viên
- - Trở thành một thiết bị cho các phòng thuyết trình, làm việc nhóm
- <B> Làm như thế nào? <B> : 
+ - Trở thành một thiết bị cho các phòng thuyết trình, làm việc nhóm<BR>
+ <B> Làm như thế nào? </B> : 
  - Làm một chiếc bảng kính, có thể cảm nhận được khi ta viết bút lông trên bảng, "chụp"(mô phỏng) lại những gì ghi trên bảng.
  - Thông qua thiết bị của bảng kết nối mạng, có thể tải lên hình ảnh của tấm bảng lên app chuyên dụng.
- - Sử dụng các thiết bị di động(smartphone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.
+ - Sử dụng các thiết bị di động(smartphone, laptop,...) kết hợp vs app của bảng sẽ có thể xem được hình ảnh bảng, hình ảnh sẽ được cập nhật liên tục trong quá trình sử dụng.<BR>
  
 ## Thông tin thành viên
 
