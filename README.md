@@ -1,6 +1,6 @@
 ﻿# Đồ án 1 NMCNTT 2 - Team Bananas
 
-## Thông tin đề tài: Tạo App/Web tạo/tìm việc thời vụ. 
+## Đề tài: Tạo App/Web tạo/tìm việc thời vụ. 
 
 *(Công việc thời vụ: chỉ làm trong một thời gian ngắn, thường trả lương ngay trong ngày.)*
 
