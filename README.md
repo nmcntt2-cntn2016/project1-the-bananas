@@ -1,4 +1,4 @@
-﻿# Đồ án 1 NMCNTT 2 - Team Bananas
+﻿# Đồ án 1 NMCNTT 2 - Team Banana
 
 ## Thông tin đề tài: Tạo App/Web tạo/tìm việc thời vụ. 
 
