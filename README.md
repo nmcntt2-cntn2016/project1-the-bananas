@@ -1,6 +1,6 @@
 ﻿# Đồ án 1 NMCNTT 2 - Team Bananas
 
-[Website](https://nmcntt2-cntn2016.github.io/project1-the-bananas/)
+[Website](https://summersad.github.io/ThoiVu/)
 
 ## Đề tài: Tạo App/Web tạo/tìm việc thời vụ. 
 
