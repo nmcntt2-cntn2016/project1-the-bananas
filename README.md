@@ -1,6 +1,7 @@
 ﻿# Đồ án 1 NMCNTT 2 - Team Bananas
 
 [Website](https://summersad.github.io/ThoiVu/)
+[Poster](http://i.imgur.com/35kSqS1.png)
 
 ## Đề tài: Tạo App/Web tạo/tìm việc thời vụ. 
 
@@ -22,12 +23,6 @@
 - Hệ thống sẽ đăng tải những yêu cầu đó,tự động tìm rồi gửi thông báo đến cho người dùng phù hợp. 
 - Những sinh viên cảm thấy bản thân thỏa mãn yêu cầu có thể click vào ô đăng ký để gửi thông tin ngược lại cho bên tuyển dụng.
 - Nếu bên tuyển dụng chấp nhận thì một hợp đồng online sẽ được tạo ra và thông báo về thời gian làm việc và tiền công cho sinh viên.
-
-## Khó khăn :
-- [ ] Người đăng việc có ích lợi gì? Lúc cần người thì họ sẽ thường làm gì?
-- [ ] Người tìm việc sẽ được đảm bảo những gì? 
-- [ ] Người tìm việc hiện đang tìm việc trên những kênh nào? Giải pháp đưa ra sẽ giải quyết những vấn đề gì cho họ? 
-- [ ] Có ai đã làm hay chưa và so sánh?
 
 ---
 
