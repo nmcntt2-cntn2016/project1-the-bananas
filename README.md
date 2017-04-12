@@ -41,4 +41,6 @@ Tăng Nguyễn Hoàng Phi | `1612493`
 - Biểu diễn thông tin
 - Hệ quản trị CSDL
 - Thương mại điện tử
+- Thiết kế giao diện
+- Mô hình hóa
 
